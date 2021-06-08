@@ -30,4 +30,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-- Desenvolvido por mim através do tutorial guiado pelo meu grande amigo Anderson Irias (@andersonirias / irias.com.br) em seus artigos sobre React. O agradecimento e os créditos são para ele. 
+- Desenvolvido por Victor Laurance
